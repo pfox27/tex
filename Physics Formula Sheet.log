@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.1)  9 OCT 2024 09:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.1)  10 OCT 2024 08:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -222,15 +222,15 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(22.76228pt, 568.77043pt, 22.76228pt)
-* v-part:(T,H,B)=(22.76228pt, 749.44542pt, 22.76228pt)
+* h-part:(L,W,R)=(14.22636pt, 585.84227pt, 14.22636pt)
+* v-part:(T,H,B)=(14.22636pt, 766.51726pt, 14.22636pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=568.77043pt
-* \textheight=749.44542pt
-* \oddsidemargin=-49.5077pt
-* \evensidemargin=-49.5077pt
-* \topmargin=-86.5077pt
+* \textwidth=585.84227pt
+* \textheight=766.51726pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
+* \topmargin=-95.04362pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -249,12 +249,12 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--122
+Underfull \hbox (badness 10000) in paragraph at lines 7--129
 
  []
 
 
-Overfull \hbox (29.37326pt too wide) in paragraph at lines 7--122
+Overfull \hbox (12.30142pt too wide) in paragraph at lines 7--129
 [] 
  []
 
@@ -274,7 +274,7 @@ Here is how much of TeX's memory you used:
  25535 multiletter control sequences out of 15000+600000
  558831 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,12n,79p,291b,140s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,12n,79p,291b,150s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.p
@@ -286,7 +286,7 @@ r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/l
 ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loca
 l/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on "Physics Formula Sheet.pdf" (1 page, 136033 bytes).
+Output written on "Physics Formula Sheet.pdf" (1 page, 136039 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
