@@ -1,32 +1,78 @@
-\documentclass[16pt]{article}
+\documentclass[30pt]{article}
 \usepackage{mathtools}
-\usepackage[margin=0.5cm]{geometry}
+\usepackage[margin=0.2cm]{geometry}
+\usepackage{array}
 
 \title{MCR3U Formula Sheet}
 \begin{document}
 \begin{LARGE}
 
-%\textbf{\underline{MCR3U Formula Sheet}}\\
-\begin{Huge}
+%\begin{Huge}
+\begin{table}
+\Huge
 \begin{tabular}{ |l| }
   \hline
-  MCR3U Formula Sheet\\
+  \textbf{MCR3U Formula Sheet}\\
   \hline
 \end{tabular}
-\\
-\\
+\end{table}
 
-
-\end{Huge}
-\setlength{\tabcolsep}{35pt}
+%\end{Huge}
+\setlength{\tabcolsep}{20pt}
+\begin{table}
+\LARGE
 \begin{tabular}{l l l}
+\renewcommand{\arraystretch}{2}
 
-
-y = mx + b & y = ax$^2$ + bx + c  & y = a(x - h)$^2$ + k
-
-
+y = mx + b & y = ax$^2$ + bx + c  & y = a(x - h)$^2$ + k\\
+\\
+g(x) = af[k(x - d)] + c & f(x) = a(x - r)(x - s) & x = $\frac{-b \: \pm \: \sqrt {b^2 - 4ac}}{2a}$\\
+\\
+$x^2$ + $y^2$ = $r^2$ & sin $\theta$ = $\frac{y}{r}$ & cos $\theta$ = $\frac{x}{r}$\\
+\\
+tan $\theta$ = $\frac{y}{x}$ & $a^2$ = $b^2$ + $c^2$ - 2bc$\:$cosA & $\frac{a}{sinA}$ = $\frac{b}{sinB}$ = $\frac{c}{sinC}$\\
+\\
+$t_n$ = $t_{n-1}$ + d & $t_n$ = a + (n - 1)d & $t_n$ = $t_{n-1} \, r$\\
+\\
+$t_n$ = a $\, r^{n-1}$ & $S_n$ = $\frac{n}{2} \left( 2a \, + \, (n \, - \, 1)d \right)$ & $S_n$ = $\frac{a \left(r^n \, - \, 1 \right)}{r \, - \, 1}$\\
+\\
+A = P(1 + rt) & I = Prt & A = P(1 + i)$^n$ \\
+\\
+PV = $\frac{A}{(1 \, + \, i)^n}$ & FV = R $ \left(\frac{(1 \, + \, i)^n -1}{i} \right)$ & PV = R $ \left(\frac{1 \, - \, (1 \, + \, i)^{-n}}{i} \right)$ 
+\\
+\\
 
 \end{tabular}
+\end{table}
 \end{LARGE}
+
+\begin{Large}
+
+\begin{table}
+\LARGE
+\renewcommand{\arraystretch}{2}
+\begin{tabular}{|l|l|l|}
+
+\hline
+
+\textbf {Based on Definitions} & \multicolumn{2}{c|}{\textbf{Derived From Relationships}}\\
+
+\hline
+
+Reciprocal Identities & Quotient Identities & Pythagorean Identities\\
+\hline
+
+csc$\theta$ = $\frac{1}{sin \theta}$, where sin$\theta \neq$ 0 & tan$\theta$ = $\frac{sin \theta}{cos \theta}$, where cos$\theta \neq$ 0 & sin$^2 \theta$ + cos$^2 \theta$ = 1\\
+\hline
+sec$\theta$ = $\frac{1}{cos \theta}$, where cos$\theta \neq$ 0 & cot$\theta$ = $\frac{cos \theta}{sin \theta}$, where sin$\theta \neq$ 0 & 1 + tan$^2 \theta$ = sec$^2 \theta$ \\
+\hline
+cot$\theta$ = $\frac{1}{tan \theta}$, where tan$\theta$ $\neq$ 0 & & 1 + cot$^2 \theta$ = csc$^2 \theta$\\
+\hline 
+
+%\end{large}
+\end{tabular} 
+\end{table}
+\end{Large}
+
 \end{document}
 
