@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  23 MAY 2025 15:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.5)  27 MAY 2025 14:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**MCR3UFormulaSheet.tex
-(./MCR3UFormulaSheet.tex
+**MPM2DFormulaSheet.tex
+(./MPM2DFormulaSheet.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -148,27 +148,17 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen167
 \Gm@dimlist=\toks23
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
-Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen168
-\ar@mcellbox=\box54
-\extrarowheight=\dimen169
-\NC@list=\toks24
-\extratabsurround=\skip57
-\backup@length=\skip58
-\ar@cellbox=\box55
-)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
-\l__pdf_internal_box=\box56
+\l__pdf_internal_box=\box54
 )
 
 LaTeX Warning: Unused global option(s):
     [30pt].
 
-(./MCR3UFormulaSheet.aux)
-\openout1 = `MCR3UFormulaSheet.aux'.
+(./MPM2DFormulaSheet.aux)
+\openout1 = `MPM2DFormulaSheet.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -205,16 +195,16 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count282
-\scratchdimen=\dimen170
-\scratchbox=\box57
+\scratchdimen=\dimen168
+\scratchbox=\box55
 \nofMPsegments=\count283
 \nofMParguments=\count284
-\everyMPshowfont=\toks25
+\everyMPshowfont=\toks24
 \MPscratchCnt=\count285
-\MPscratchDim=\dimen171
+\MPscratchDim=\dimen169
 \MPnumerator=\count286
 \makeMPintoPDFobject=\count287
-\everyMPtoPDFconversion=\toks26
+\everyMPtoPDFconversion=\toks25
 )))
 (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -225,8 +215,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\Gin@req@height=\dimen172
-\Gin@req@width=\dimen173
+\Gin@req@height=\dimen170
+\Gin@req@width=\dimen171
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -263,37 +253,48 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (15.56772pt too wide) in paragraph at lines 24--46
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 11--17
+
  []
 
-[1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./MCR3UFormulaSheet.aux)
+
+Overfull \hbox (156.16666pt too wide) in paragraph at lines 21--52
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--52
+
+ []
+
+[1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./MPM2DFormulaSheet.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3256 strings out of 474116
- 51502 string characters out of 5743683
- 1938187 words of memory out of 5000000
- 25620 multiletter control sequences out of 15000+600000
- 563532 words of font info for 55 fonts, out of 8000000 for 9000
+ 3186 strings out of 474116
+ 50446 string characters out of 5743683
+ 1935187 words of memory out of 5000000
+ 25552 multiletter control sequences out of 15000+600000
+ 562927 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,12n,79p,285b,279s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,11n,79p,285b,238s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on MCR3UFormulaSheet.pdf (1 page, 85549 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
+ocal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on MPM2DFormulaSheet.pdf (1 page, 72229 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 43 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
